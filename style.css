@@ -1,5 +1,9 @@
 body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: '#777';
     background: grey;
+    width: '960px';
+    font-size: '18px';
 }
 
 .top {
@@ -129,4 +133,11 @@ body {
     top:35%;
     text-align:center;
     font-size:30px;
+}
+
+#hw {
+    position: relative;;
+    top:30%;
+    
+    
 }
